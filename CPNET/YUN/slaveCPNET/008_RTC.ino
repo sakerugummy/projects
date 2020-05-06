@@ -3,7 +3,7 @@
 static const uint8_t daysInMonth[12] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
 
 Time currentTime;
-String output="";
+//String output="";
 const int pinSQW  = 7;  // INT7
 
 void initRTC(){
